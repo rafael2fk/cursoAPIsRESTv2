@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{965DE848-1283-4BFD-B561-6D80E79F920F}|ApiFuncional.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\05 - fundamentosapiemasp.net\\02 - fundamentosapiemasp.net\\apifuncional\\apifuncional\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{965DE848-1283-4BFD-B561-6D80E79F920F}|ApiFuncional.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{965DE848-1283-4BFD-B561-6D80E79F920F}|ApiFuncional.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\05 - fundamentosapiemasp.net\\02 - fundamentosapiemasp.net\\apifuncional\\apifuncional\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{965DE848-1283-4BFD-B561-6D80E79F920F}|ApiFuncional.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965DE848-1283-4BFD-B561-6D80E79F920F}|ApiFuncional.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\05 - fundamentosapiemasp.net\\02 - fundamentosapiemasp.net\\apifuncional\\apifuncional\\apifuncional.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{965DE848-1283-4BFD-B561-6D80E79F920F}|ApiFuncional.csproj|solutionrelative:apifuncional.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\Migrations\\20251109030856_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251109030856_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965DE848-1283-4BFD-B561-6D80E79F920F}|ApiFuncional.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\05 - fundamentosapiemasp.net\\02 - fundamentosapiemasp.net\\apifuncional\\apifuncional\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965DE848-1283-4BFD-B561-6D80E79F920F}|ApiFuncional.csproj|solutionrelative:data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965DE848-1283-4BFD-B561-6D80E79F920F}|ApiFuncional.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\05 - fundamentosapiemasp.net\\02 - fundamentosapiemasp.net\\apifuncional\\apifuncional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965DE848-1283-4BFD-B561-6D80E79F920F}|ApiFuncional.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 298,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "Models\\Produto.cs",
-              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\Models\\Produto.cs",
-              "RelativeToolTip": "Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ApiFuncional.http",
+              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\ApiFuncional.http",
+              "RelativeDocumentMoniker": "ApiFuncional.http",
+              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\ApiFuncional.http",
+              "RelativeToolTip": "ApiFuncional.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-09T03:13:53.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251109030856_Inicial.cs",
+              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\Migrations\\20251109030856_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251109030856_Inicial.cs",
+              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\Migrations\\20251109030856_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20251109030856_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T02:38:56.161Z",
+              "WhenOpened": "2025-11-09T03:08:56.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T03:02:06.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T02:59:40Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApiDbContext.cs",
+              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\05 - fundamentosAPIemASP.NET\\02 - fundamentosAPIemASP.NET\\ApiFuncional\\ApiFuncional\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "Data\\ApiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T02:58:22.985Z",
               "EditorCaption": ""
             }
           ]
