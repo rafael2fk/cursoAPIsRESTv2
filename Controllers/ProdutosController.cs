@@ -116,6 +116,7 @@ namespace ApiFuncional.Controllers
             return NoContent();
         }
 
+        [Authorize(Roles = "Admin")]       // Somente o adm pode exect
         [HttpDelete("{id:int}")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
