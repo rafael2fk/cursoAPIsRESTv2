@@ -139,3 +139,4 @@ C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\05 - fundamentosAPIemASP.NET\02 - 
 C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\05 - fundamentosAPIemASP.NET\02 - fundamentosAPIemASP.NET\ApiFuncional\ApiFuncional\obj\Debug\net8.0\ApiFuncional.genruntimeconfig.cache
 C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\05 - fundamentosAPIemASP.NET\02 - fundamentosAPIemASP.NET\ApiFuncional\ApiFuncional\obj\Debug\net8.0\ref\ApiFuncional.dll
 C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\05 - fundamentosAPIemASP.NET\02 - fundamentosAPIemASP.NET\ApiFuncional\ApiFuncional\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Estudos\01 - Estudos\01 - Desenvolvedor.io\05 - fundamentosAPIemASP.NET\02 - fundamentosAPIemASP.NET\ApiFuncional\ApiFuncional\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
