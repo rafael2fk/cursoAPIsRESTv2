@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using System.Diagnostics.Eventing.Reader;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +16,21 @@ builder.Services.AddControllers()
     {
         options.SuppressModelStateInvalidFilter = true;
     });
+
+builder.Services.AddCors(options =>               //add cors com poli
+{
+    options.AddPolicy("Development", builder =>
+                 builder
+                     .AllowAnyOrigin()            // não importa de onde vem o request, vai aceitar
+                     .AllowAnyMethod()            // qualquer verbo http vai aceita
+                     .AllowAnyHeader());          // não importa o header na requisição vai aceitar
+
+    options.AddPolicy("Production", builder =>
+                 builder
+                      .WithOrigins("https://localhost:900")      //aceitando requisições somente do localhost passado
+                      .WithMethods("POST")                       // apenas do mtdo PSOT
+                      .AllowAnyHeader());                        // qualquer uma
+});
 
 builder.Services.AddEndpointsApiExplorer();
 
@@ -44,7 +60,7 @@ builder.Services.AddSwaggerGen(c =>                            // add swagger co
             new string[] {}
         }
     });
-});  
+});
 
 builder.Services.AddDbContext<ApiDbContext>(options =>
 {
@@ -87,9 +103,14 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+    app.UseCors("Development");
+}
+else
+{
+    app.UseCors("Production");
 }
 
-app.UseHttpsRedirection();
+    app.UseHttpsRedirection();
 
 app.UseAuthentication();   //Sempre em 1
 
